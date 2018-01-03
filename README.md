@@ -81,10 +81,10 @@ Basic price chart
 	 
 Models 
 	Users -
-	Coins -
-	Exchanges -
-	Wikis -
-	Wallets
+	Coins - Name, Price, Website, Description, Unique Features, Founders, Where it is based, Exchanges, Wallets
+	Exchanges - Name, Website, Description, Where it is based, Coins
+	Wikis - Name, Description
+	Wallets - Name, Website, Coins
 	
 Views
 	Landing Page -
@@ -105,3 +105,5 @@ Controllers
 	Exchanges -
 	Wikis
 	Wallets
+	
+Could add a portfolio feature for the users later
